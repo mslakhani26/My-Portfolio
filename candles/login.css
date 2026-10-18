@@ -1,0 +1,98 @@
+body{
+    background-image: url(login\ bg\ pic.jpg);
+}
+
+.login-card{
+    background-color: #FAF4E8;
+    color:#450E13;
+    width: 30%;
+    height: 600px;
+    position: absolute;
+   top: 80px;
+   left: 500px;
+   align-items: center;
+   justify-content: center;
+ flex-wrap: wrap;
+ text-align: center;
+}
+#button {
+    background-color: #BD7519;
+    color: white;
+    border: 0;
+    padding: 10px;
+    width: 300px;
+    border-radius: 6%;
+    align-items: center;
+}
+#logoimg{
+    display: flex;
+    align-items: left ;
+    text-align: center;
+    justify-content:center;
+}
+#form input{
+ height: 25px; 
+ border-radius: 
+}
+#form{
+
+}
+#email-icon{
+    position: absolute;
+    bottom: 362px;
+    right: 390px;
+}
+#lock-icon{
+position: absolute;
+    bottom: 312px;
+    right: 390px;
+}
+.hr-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inline-line {
+  width: 100px;     
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 0 10px;     
+}
+
+.line-text {
+  color: #000000;
+}
+#google img{
+    width: 30px;
+    position: absolute;
+    align-items: center;
+}
+#facebook img{
+    width: 30px;
+    position: absolute;
+    align-items: center;
+}
+#google{
+    position: absolute;
+    right: 310px;
+    top: 430px;
+}
+#facebook{
+    position: absolute;
+    right: 200px;
+    top: 430px;
+}
+#ac{
+    position: absolute;
+    left: 120px;
+    top: 450px;
+}
+
+#button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#button:hover{
+ background-color:#463c2f ;
+}
